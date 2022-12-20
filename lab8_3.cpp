@@ -1,4 +1,5 @@
 #include<iostream>
+using namespace std;
 
 char before(char x)
 {
